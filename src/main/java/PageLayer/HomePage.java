@@ -6,5 +6,10 @@ public class HomePage {
 	{
 		System.out.println("pqr method in Home page");
 	}
+	
+	public void abc()
+	{
+		System.out.println("abc method in home page");
+	}
 
 }
